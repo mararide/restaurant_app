@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "373215866833",
+    "project_id": "food-craft-7e72f",
+    "storage_bucket": "food-craft-7e72f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373215866833:android:eb4be379f1a82919b7baf0",
+        "android_client_info": {
+          "package_name": "com.example.food_craft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373215866833-8rr0993vo1818i9kcnukm5dqd1kgt891.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2dH5WgsLxJfLwJMyidYDkp4JHbRFjvOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373215866833-8rr0993vo1818i9kcnukm5dqd1kgt891.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
